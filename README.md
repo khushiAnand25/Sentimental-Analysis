@@ -44,7 +44,8 @@ Screenshots of the output :
 
 <img width="1740" height="1033" alt="Screenshot 2025-09-02 234426" src="https://github.com/user-attachments/assets/9fdf1212-e4b7-4b03-b570-38bc5fa964e7" />
 
-<img width="1702" height="867" alt="Screenshot 2025-09-03 000742" src="https://github.com/user-attachments/assets/a6d415e6-2b0b-4e93-bcb8-7562f6509818" />
+<img width="1702" height="783" alt="Screenshot 2025-09-03 001020" src="https://github.com/user-attachments/assets/d38ec9ba-d31d-4efd-b5a0-f132ee0b98f5" />
+
 
 
 
