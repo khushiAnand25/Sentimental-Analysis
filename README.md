@@ -1,4 +1,3 @@
-<img width="1892" height="893" alt="Screenshot 2025-09-03 003341" src="https://github.com/user-attachments/assets/48a648f2-d635-4da9-8e99-e4adccd16770" />
 🚀 Project Overview
 This project focuses on detecting potential hate speech directed toward the LGBTQIA+ community. It uses a supervised machine learning approach, where the model is trained on labeled data to learn patterns of hate speech vs. non-hate speech and then applies that knowledge to new, unseen text.
 
@@ -46,6 +45,9 @@ Screenshots of the output :
 <img width="1740" height="1033" alt="Screenshot 2025-09-02 234426" src="https://github.com/user-attachments/assets/9fdf1212-e4b7-4b03-b570-38bc5fa964e7" />
 
 <img width="1702" height="783" alt="Screenshot 2025-09-03 001020" src="https://github.com/user-attachments/assets/d38ec9ba-d31d-4efd-b5a0-f132ee0b98f5" />
+
+<img width="1892" height="893" alt="Screenshot 2025-09-03 003341" src="https://github.com/user-attachments/assets/a419ccf8-7566-4efe-a66f-7a183d887a8e" />
+
 <img width="919" height="366" alt="Screenshot 2025-09-03 003953" src="https://github.com/user-attachments/assets/c912b31e-ee0e-4936-8ec8-6b7232b90fec" />
 
 
