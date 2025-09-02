@@ -39,6 +39,12 @@ ntscraper → Twitter scraping
 YouTube API → Fetching comments
 Screenshots of the output :
 <img width="1683" height="852" alt="Screenshot 2025-09-02 233619" src="https://github.com/user-attachments/assets/bcf7a85d-a8b6-4b77-b5b1-552b7ac28c50" />
+
 <img width="1732" height="836" alt="Screenshot 2025-09-02 233956" src="https://github.com/user-attachments/assets/c55edbc0-3d0e-488f-9507-8a73cffd3fed" />
+
+<img width="1740" height="1033" alt="Screenshot 2025-09-02 234426" src="https://github.com/user-attachments/assets/9fdf1212-e4b7-4b03-b570-38bc5fa964e7" />
+
+
+
 
 
